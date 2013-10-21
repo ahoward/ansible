@@ -29,7 +29,10 @@ SYNOPSIS
 
 INSTALL
 -------
-  gem install ansible
+  <strike>gem install ansible</strike>
+
+  actually get back to on that, there is already a gem call ansible and we're
+  busy rewriting rubygems in a yaml compatible format...
 
 REFS
 ----
