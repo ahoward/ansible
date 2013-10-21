@@ -29,7 +29,7 @@ want, you can run from master and use the mailing list.
 
 INSTALL
 -------
-<strike>gem install ansible</strike>
+<del>gem install ansible</del>
 
 actually get back to on that, there is already a gem call ansible and we're
 busy rewriting rubygems in a yaml compatible format...
