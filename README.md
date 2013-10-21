@@ -19,9 +19,9 @@ DESCRIPTION
 
 SYNOPSIS
 --------
-  ansible all deploy rainbows
-  ansible all install magic
-  ansible all continuously integrate unicorns
+  * ansible all deploy rainbows
+  * ansible all install magic
+  * ansible all continuously integrate unicorns
 
   etc.  other tasks are so simple they don't need documentation but, if you
   want, you can run from master and use the mailing list.
