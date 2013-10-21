@@ -31,8 +31,8 @@ INSTALL
 -------
 <del>gem install ansible</del>
 
-actually get back to on that, there is already a gem call ansible and we're
-busy rewriting rubygems in a yaml compatible format...
+actually we'll get back you to on that, there is already a gem call ansible
+and we're busy rewriting rubygems in a yaml compatible format...
 
 REFS
 ----
